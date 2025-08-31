@@ -1,0 +1,845 @@
+Prefetch distance: 1
+
+Time WITHOUT software prefetching: 507 microseconds.
+Time WITH software prefetching: 403 microseconds.
+embedding size 128
+
+Time with Simd: 194 microseconds.
+Time WITH software prefetching and simd: 232 microseconds.
+
+Speedup (with software prefetching) = 1.258x
+Speedup (with simd) = 2.613x
+Speedup (with software prefetching and simd) = 2.185x
+-------------------------------------------------------------------------
+Prefetch distance: 1
+
+Time WITHOUT software prefetching: 426 microseconds.
+Time WITH software prefetching: 402 microseconds.
+embedding size 128
+
+Time with Simd: 153 microseconds.
+Time WITH software prefetching and simd: 247 microseconds.
+
+Speedup (with software prefetching) = 1.060x
+Speedup (with simd) = 2.784x
+Speedup (with software prefetching and simd) = 1.725x
+-------------------------------------------------------------------------
+Prefetch distance: 1
+
+Time WITHOUT software prefetching: 358 microseconds.
+Time WITH software prefetching: 296 microseconds.
+embedding size 128
+
+Time with Simd: 118 microseconds.
+Time WITH software prefetching and simd: 370 microseconds.
+
+Speedup (with software prefetching) = 1.209x
+Speedup (with simd) = 3.034x
+Speedup (with software prefetching and simd) = 0.968x
+-------------------------------------------------------------------------
+Prefetch distance: 1
+
+Time WITHOUT software prefetching: 395 microseconds.
+Time WITH software prefetching: 325 microseconds.
+embedding size 128
+
+Time with Simd: 132 microseconds.
+Time WITH software prefetching and simd: 171 microseconds.
+
+Speedup (with software prefetching) = 1.215x
+Speedup (with simd) = 2.992x
+Speedup (with software prefetching and simd) = 2.310x
+-------------------------------------------------------------------------
+Prefetch distance: 1
+
+Time WITHOUT software prefetching: 567 microseconds.
+Time WITH software prefetching: 329 microseconds.
+embedding size 128
+
+Time with Simd: 138 microseconds.
+Time WITH software prefetching and simd: 172 microseconds.
+
+Speedup (with software prefetching) = 1.723x
+Speedup (with simd) = 4.109x
+Speedup (with software prefetching and simd) = 3.297x
+-------------------------------------------------------------------------
+Prefetch distance: 2
+
+Time WITHOUT software prefetching: 368 microseconds.
+Time WITH software prefetching: 289 microseconds.
+embedding size 128
+
+Time with Simd: 114 microseconds.
+Time WITH software prefetching and simd: 153 microseconds.
+
+Speedup (with software prefetching) = 1.273x
+Speedup (with simd) = 3.228x
+Speedup (with software prefetching and simd) = 2.405x
+-------------------------------------------------------------------------
+Prefetch distance: 2
+
+Time WITHOUT software prefetching: 349 microseconds.
+Time WITH software prefetching: 337 microseconds.
+embedding size 128
+
+Time with Simd: 118 microseconds.
+Time WITH software prefetching and simd: 172 microseconds.
+
+Speedup (with software prefetching) = 1.036x
+Speedup (with simd) = 2.958x
+Speedup (with software prefetching and simd) = 2.029x
+-------------------------------------------------------------------------
+Prefetch distance: 2
+
+Time WITHOUT software prefetching: 376 microseconds.
+Time WITH software prefetching: 290 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 169 microseconds.
+
+Speedup (with software prefetching) = 1.297x
+Speedup (with simd) = 3.357x
+Speedup (with software prefetching and simd) = 2.225x
+-------------------------------------------------------------------------
+Prefetch distance: 2
+
+Time WITHOUT software prefetching: 354 microseconds.
+Time WITH software prefetching: 292 microseconds.
+embedding size 128
+
+Time with Simd: 113 microseconds.
+Time WITH software prefetching and simd: 219 microseconds.
+
+Speedup (with software prefetching) = 1.212x
+Speedup (with simd) = 3.133x
+Speedup (with software prefetching and simd) = 1.616x
+-------------------------------------------------------------------------
+Prefetch distance: 4
+
+Time WITHOUT software prefetching: 360 microseconds.
+Time WITH software prefetching: 294 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 167 microseconds.
+
+Speedup (with software prefetching) = 1.224x
+Speedup (with simd) = 3.103x
+Speedup (with software prefetching and simd) = 2.156x
+-------------------------------------------------------------------------
+Prefetch distance: 4
+
+Time WITHOUT software prefetching: 372 microseconds.
+Time WITH software prefetching: 294 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 172 microseconds.
+
+Speedup (with software prefetching) = 1.265x
+Speedup (with simd) = 3.207x
+Speedup (with software prefetching and simd) = 2.163x
+-------------------------------------------------------------------------
+Prefetch distance: 4
+
+Time WITHOUT software prefetching: 372 microseconds.
+Time WITH software prefetching: 299 microseconds.
+embedding size 128
+
+Time with Simd: 120 microseconds.
+Time WITH software prefetching and simd: 160 microseconds.
+
+Speedup (with software prefetching) = 1.244x
+Speedup (with simd) = 3.100x
+Speedup (with software prefetching and simd) = 2.325x
+-------------------------------------------------------------------------
+Prefetch distance: 4
+
+Time WITHOUT software prefetching: 424 microseconds.
+Time WITH software prefetching: 319 microseconds.
+embedding size 128
+
+Time with Simd: 133 microseconds.
+Time WITH software prefetching and simd: 136 microseconds.
+
+Speedup (with software prefetching) = 1.329x
+Speedup (with simd) = 3.188x
+Speedup (with software prefetching and simd) = 3.118x
+-------------------------------------------------------------------------
+Prefetch distance: 8
+
+Time WITHOUT software prefetching: 366 microseconds.
+Time WITH software prefetching: 294 microseconds.
+embedding size 128
+
+Time with Simd: 117 microseconds.
+Time WITH software prefetching and simd: 181 microseconds.
+
+Speedup (with software prefetching) = 1.245x
+Speedup (with simd) = 3.128x
+Speedup (with software prefetching and simd) = 2.022x
+-------------------------------------------------------------------------
+Prefetch distance: 8
+
+Time WITHOUT software prefetching: 429 microseconds.
+Time WITH software prefetching: 299 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 162 microseconds.
+
+Speedup (with software prefetching) = 1.435x
+Speedup (with simd) = 3.698x
+Speedup (with software prefetching and simd) = 2.648x
+-------------------------------------------------------------------------
+Prefetch distance: 8
+
+Time WITHOUT software prefetching: 389 microseconds.
+Time WITH software prefetching: 296 microseconds.
+embedding size 128
+
+Time with Simd: 115 microseconds.
+Time WITH software prefetching and simd: 191 microseconds.
+
+Speedup (with software prefetching) = 1.314x
+Speedup (with simd) = 3.383x
+Speedup (with software prefetching and simd) = 2.037x
+-------------------------------------------------------------------------
+Prefetch distance: 8
+
+Time WITHOUT software prefetching: 354 microseconds.
+Time WITH software prefetching: 294 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 182 microseconds.
+
+Speedup (with software prefetching) = 1.204x
+Speedup (with simd) = 3.052x
+Speedup (with software prefetching and simd) = 1.945x
+-------------------------------------------------------------------------
+Prefetch distance: 9
+
+Time WITHOUT software prefetching: 357 microseconds.
+Time WITH software prefetching: 379 microseconds.
+embedding size 128
+
+Time with Simd: 158 microseconds.
+Time WITH software prefetching and simd: 199 microseconds.
+
+Speedup (with software prefetching) = 0.942x
+Speedup (with simd) = 2.259x
+Speedup (with software prefetching and simd) = 1.794x
+-------------------------------------------------------------------------
+Prefetch distance: 9
+
+Time WITHOUT software prefetching: 388 microseconds.
+Time WITH software prefetching: 295 microseconds.
+embedding size 128
+
+Time with Simd: 113 microseconds.
+Time WITH software prefetching and simd: 239 microseconds.
+
+Speedup (with software prefetching) = 1.315x
+Speedup (with simd) = 3.434x
+Speedup (with software prefetching and simd) = 1.623x
+-------------------------------------------------------------------------
+Prefetch distance: 9
+
+Time WITHOUT software prefetching: 357 microseconds.
+Time WITH software prefetching: 297 microseconds.
+embedding size 128
+
+Time with Simd: 115 microseconds.
+Time WITH software prefetching and simd: 162 microseconds.
+
+Speedup (with software prefetching) = 1.202x
+Speedup (with simd) = 3.104x
+Speedup (with software prefetching and simd) = 2.204x
+-------------------------------------------------------------------------
+Prefetch distance: 9
+
+Time WITHOUT software prefetching: 360 microseconds.
+Time WITH software prefetching: 296 microseconds.
+embedding size 128
+
+Time with Simd: 118 microseconds.
+Time WITH software prefetching and simd: 191 microseconds.
+
+Speedup (with software prefetching) = 1.216x
+Speedup (with simd) = 3.051x
+Speedup (with software prefetching and simd) = 1.885x
+-------------------------------------------------------------------------
+Prefetch distance: 10
+
+Time WITHOUT software prefetching: 359 microseconds.
+Time WITH software prefetching: 300 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 199 microseconds.
+
+Speedup (with software prefetching) = 1.197x
+Speedup (with simd) = 3.205x
+Speedup (with software prefetching and simd) = 1.804x
+-------------------------------------------------------------------------
+Prefetch distance: 10
+
+Time WITHOUT software prefetching: 378 microseconds.
+Time WITH software prefetching: 301 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 165 microseconds.
+
+Speedup (with software prefetching) = 1.256x
+Speedup (with simd) = 3.259x
+Speedup (with software prefetching and simd) = 2.291x
+-------------------------------------------------------------------------
+Prefetch distance: 10
+
+Time WITHOUT software prefetching: 357 microseconds.
+Time WITH software prefetching: 379 microseconds.
+embedding size 128
+
+Time with Simd: 119 microseconds.
+Time WITH software prefetching and simd: 163 microseconds.
+
+Speedup (with software prefetching) = 0.942x
+Speedup (with simd) = 3.000x
+Speedup (with software prefetching and simd) = 2.190x
+-------------------------------------------------------------------------
+Prefetch distance: 10
+
+Time WITHOUT software prefetching: 432 microseconds.
+Time WITH software prefetching: 782 microseconds.
+embedding size 128
+
+Time with Simd: 253 microseconds.
+Time WITH software prefetching and simd: 218 microseconds.
+
+Speedup (with software prefetching) = 0.552x
+Speedup (with simd) = 1.708x
+Speedup (with software prefetching and simd) = 1.982x
+-------------------------------------------------------------------------
+Prefetch distance: 11
+
+Time WITHOUT software prefetching: 358 microseconds.
+Time WITH software prefetching: 310 microseconds.
+embedding size 128
+
+Time with Simd: 119 microseconds.
+Time WITH software prefetching and simd: 126 microseconds.
+
+Speedup (with software prefetching) = 1.155x
+Speedup (with simd) = 3.008x
+Speedup (with software prefetching and simd) = 2.841x
+-------------------------------------------------------------------------
+Prefetch distance: 11
+
+Time WITHOUT software prefetching: 359 microseconds.
+Time WITH software prefetching: 353 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 160 microseconds.
+
+Speedup (with software prefetching) = 1.017x
+Speedup (with simd) = 3.205x
+Speedup (with software prefetching and simd) = 2.244x
+-------------------------------------------------------------------------
+Prefetch distance: 11
+
+Time WITHOUT software prefetching: 363 microseconds.
+Time WITH software prefetching: 366 microseconds.
+embedding size 128
+
+Time with Simd: 123 microseconds.
+Time WITH software prefetching and simd: 167 microseconds.
+
+Speedup (with software prefetching) = 0.992x
+Speedup (with simd) = 2.951x
+Speedup (with software prefetching and simd) = 2.174x
+-------------------------------------------------------------------------
+Prefetch distance: 11
+
+Time WITHOUT software prefetching: 366 microseconds.
+Time WITH software prefetching: 340 microseconds.
+embedding size 128
+
+Time with Simd: 120 microseconds.
+Time WITH software prefetching and simd: 187 microseconds.
+
+Speedup (with software prefetching) = 1.076x
+Speedup (with simd) = 3.050x
+Speedup (with software prefetching and simd) = 1.957x
+-------------------------------------------------------------------------
+Prefetch distance: 12
+
+Time WITHOUT software prefetching: 401 microseconds.
+Time WITH software prefetching: 311 microseconds.
+embedding size 128
+
+Time with Simd: 127 microseconds.
+Time WITH software prefetching and simd: 129 microseconds.
+
+Speedup (with software prefetching) = 1.289x
+Speedup (with simd) = 3.157x
+Speedup (with software prefetching and simd) = 3.109x
+-------------------------------------------------------------------------
+Prefetch distance: 12
+
+Time WITHOUT software prefetching: 362 microseconds.
+Time WITH software prefetching: 306 microseconds.
+embedding size 128
+
+Time with Simd: 119 microseconds.
+Time WITH software prefetching and simd: 174 microseconds.
+
+Speedup (with software prefetching) = 1.183x
+Speedup (with simd) = 3.042x
+Speedup (with software prefetching and simd) = 2.080x
+-------------------------------------------------------------------------
+Prefetch distance: 12
+
+Time WITHOUT software prefetching: 367 microseconds.
+Time WITH software prefetching: 314 microseconds.
+embedding size 128
+
+Time with Simd: 123 microseconds.
+Time WITH software prefetching and simd: 135 microseconds.
+
+Speedup (with software prefetching) = 1.169x
+Speedup (with simd) = 2.984x
+Speedup (with software prefetching and simd) = 2.719x
+-------------------------------------------------------------------------
+Prefetch distance: 12
+
+Time WITHOUT software prefetching: 376 microseconds.
+Time WITH software prefetching: 294 microseconds.
+embedding size 128
+
+Time with Simd: 120 microseconds.
+Time WITH software prefetching and simd: 189 microseconds.
+
+Speedup (with software prefetching) = 1.279x
+Speedup (with simd) = 3.133x
+Speedup (with software prefetching and simd) = 1.989x
+-------------------------------------------------------------------------
+Prefetch distance: 13
+
+Time WITHOUT software prefetching: 360 microseconds.
+Time WITH software prefetching: 302 microseconds.
+embedding size 128
+
+Time with Simd: 113 microseconds.
+Time WITH software prefetching and simd: 124 microseconds.
+
+Speedup (with software prefetching) = 1.192x
+Speedup (with simd) = 3.186x
+Speedup (with software prefetching and simd) = 2.903x
+-------------------------------------------------------------------------
+Prefetch distance: 13
+
+Time WITHOUT software prefetching: 371 microseconds.
+Time WITH software prefetching: 298 microseconds.
+embedding size 128
+
+Time with Simd: 114 microseconds.
+Time WITH software prefetching and simd: 149 microseconds.
+
+Speedup (with software prefetching) = 1.245x
+Speedup (with simd) = 3.254x
+Speedup (with software prefetching and simd) = 2.490x
+-------------------------------------------------------------------------
+Prefetch distance: 13
+
+Time WITHOUT software prefetching: 375 microseconds.
+Time WITH software prefetching: 318 microseconds.
+embedding size 128
+
+Time with Simd: 125 microseconds.
+Time WITH software prefetching and simd: 172 microseconds.
+
+Speedup (with software prefetching) = 1.179x
+Speedup (with simd) = 3.000x
+Speedup (with software prefetching and simd) = 2.180x
+-------------------------------------------------------------------------
+Prefetch distance: 13
+
+Time WITHOUT software prefetching: 494 microseconds.
+Time WITH software prefetching: 306 microseconds.
+embedding size 128
+
+Time with Simd: 120 microseconds.
+Time WITH software prefetching and simd: 133 microseconds.
+
+Speedup (with software prefetching) = 1.614x
+Speedup (with simd) = 4.117x
+Speedup (with software prefetching and simd) = 3.714x
+-------------------------------------------------------------------------
+Prefetch distance: 14
+
+Time WITHOUT software prefetching: 386 microseconds.
+Time WITH software prefetching: 305 microseconds.
+embedding size 128
+
+Time with Simd: 117 microseconds.
+Time WITH software prefetching and simd: 144 microseconds.
+
+Speedup (with software prefetching) = 1.266x
+Speedup (with simd) = 3.299x
+Speedup (with software prefetching and simd) = 2.681x
+-------------------------------------------------------------------------
+Prefetch distance: 14
+
+Time WITHOUT software prefetching: 370 microseconds.
+Time WITH software prefetching: 294 microseconds.
+embedding size 128
+
+Time with Simd: 113 microseconds.
+Time WITH software prefetching and simd: 154 microseconds.
+
+Speedup (with software prefetching) = 1.259x
+Speedup (with simd) = 3.274x
+Speedup (with software prefetching and simd) = 2.403x
+-------------------------------------------------------------------------
+Prefetch distance: 14
+
+Time WITHOUT software prefetching: 360 microseconds.
+Time WITH software prefetching: 297 microseconds.
+embedding size 128
+
+Time with Simd: 115 microseconds.
+Time WITH software prefetching and simd: 144 microseconds.
+
+Speedup (with software prefetching) = 1.212x
+Speedup (with simd) = 3.130x
+Speedup (with software prefetching and simd) = 2.500x
+-------------------------------------------------------------------------
+Prefetch distance: 14
+
+Time WITHOUT software prefetching: 383 microseconds.
+Time WITH software prefetching: 299 microseconds.
+embedding size 128
+
+Time with Simd: 114 microseconds.
+Time WITH software prefetching and simd: 273 microseconds.
+
+Speedup (with software prefetching) = 1.281x
+Speedup (with simd) = 3.360x
+Speedup (with software prefetching and simd) = 1.403x
+-------------------------------------------------------------------------
+Prefetch distance: 15
+
+Time WITHOUT software prefetching: 370 microseconds.
+Time WITH software prefetching: 301 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 168 microseconds.
+
+Speedup (with software prefetching) = 1.229x
+Speedup (with simd) = 3.190x
+Speedup (with software prefetching and simd) = 2.202x
+-------------------------------------------------------------------------
+Prefetch distance: 15
+
+Time WITHOUT software prefetching: 370 microseconds.
+Time WITH software prefetching: 299 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 150 microseconds.
+
+Speedup (with software prefetching) = 1.237x
+Speedup (with simd) = 3.304x
+Speedup (with software prefetching and simd) = 2.467x
+-------------------------------------------------------------------------
+Prefetch distance: 15
+
+Time WITHOUT software prefetching: 372 microseconds.
+Time WITH software prefetching: 297 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 130 microseconds.
+
+Speedup (with software prefetching) = 1.253x
+Speedup (with simd) = 3.321x
+Speedup (with software prefetching and simd) = 2.862x
+-------------------------------------------------------------------------
+Prefetch distance: 15
+
+Time WITHOUT software prefetching: 424 microseconds.
+Time WITH software prefetching: 299 microseconds.
+embedding size 128
+
+Time with Simd: 114 microseconds.
+Time WITH software prefetching and simd: 195 microseconds.
+
+Speedup (with software prefetching) = 1.418x
+Speedup (with simd) = 3.719x
+Speedup (with software prefetching and simd) = 2.174x
+-------------------------------------------------------------------------
+Prefetch distance: 16
+
+Time WITHOUT software prefetching: 370 microseconds.
+Time WITH software prefetching: 298 microseconds.
+embedding size 128
+
+Time with Simd: 114 microseconds.
+Time WITH software prefetching and simd: 236 microseconds.
+
+Speedup (with software prefetching) = 1.242x
+Speedup (with simd) = 3.246x
+Speedup (with software prefetching and simd) = 1.568x
+-------------------------------------------------------------------------
+Prefetch distance: 16
+
+Time WITHOUT software prefetching: 380 microseconds.
+Time WITH software prefetching: 300 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 193 microseconds.
+
+Speedup (with software prefetching) = 1.267x
+Speedup (with simd) = 3.393x
+Speedup (with software prefetching and simd) = 1.969x
+-------------------------------------------------------------------------
+Prefetch distance: 16
+
+Time WITHOUT software prefetching: 387 microseconds.
+Time WITH software prefetching: 354 microseconds.
+embedding size 128
+
+Time with Simd: 152 microseconds.
+Time WITH software prefetching and simd: 227 microseconds.
+
+Speedup (with software prefetching) = 1.093x
+Speedup (with simd) = 2.546x
+Speedup (with software prefetching and simd) = 1.705x
+-------------------------------------------------------------------------
+Prefetch distance: 16
+
+Time WITHOUT software prefetching: 383 microseconds.
+Time WITH software prefetching: 301 microseconds.
+embedding size 128
+
+Time with Simd: 113 microseconds.
+Time WITH software prefetching and simd: 162 microseconds.
+
+Speedup (with software prefetching) = 1.272x
+Speedup (with simd) = 3.389x
+Speedup (with software prefetching and simd) = 2.364x
+-------------------------------------------------------------------------
+Prefetch distance: 17
+
+Time WITHOUT software prefetching: 369 microseconds.
+Time WITH software prefetching: 348 microseconds.
+embedding size 128
+
+Time with Simd: 117 microseconds.
+Time WITH software prefetching and simd: 122 microseconds.
+
+Speedup (with software prefetching) = 1.060x
+Speedup (with simd) = 3.154x
+Speedup (with software prefetching and simd) = 3.025x
+-------------------------------------------------------------------------
+Prefetch distance: 17
+
+Time WITHOUT software prefetching: 366 microseconds.
+Time WITH software prefetching: 299 microseconds.
+embedding size 128
+
+Time with Simd: 117 microseconds.
+Time WITH software prefetching and simd: 162 microseconds.
+
+Speedup (with software prefetching) = 1.224x
+Speedup (with simd) = 3.128x
+Speedup (with software prefetching and simd) = 2.259x
+-------------------------------------------------------------------------
+Prefetch distance: 17
+
+Time WITHOUT software prefetching: 378 microseconds.
+Time WITH software prefetching: 297 microseconds.
+embedding size 128
+
+Time with Simd: 114 microseconds.
+Time WITH software prefetching and simd: 186 microseconds.
+
+Speedup (with software prefetching) = 1.273x
+Speedup (with simd) = 3.316x
+Speedup (with software prefetching and simd) = 2.032x
+-------------------------------------------------------------------------
+Prefetch distance: 17
+
+Time WITHOUT software prefetching: 376 microseconds.
+Time WITH software prefetching: 302 microseconds.
+embedding size 128
+
+Time with Simd: 118 microseconds.
+Time WITH software prefetching and simd: 143 microseconds.
+
+Speedup (with software prefetching) = 1.245x
+Speedup (with simd) = 3.186x
+Speedup (with software prefetching and simd) = 2.629x
+-------------------------------------------------------------------------
+Prefetch distance: 18
+
+Time WITHOUT software prefetching: 478 microseconds.
+Time WITH software prefetching: 314 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 124 microseconds.
+
+Speedup (with software prefetching) = 1.522x
+Speedup (with simd) = 4.121x
+Speedup (with software prefetching and simd) = 3.855x
+-------------------------------------------------------------------------
+Prefetch distance: 18
+
+Time WITHOUT software prefetching: 380 microseconds.
+Time WITH software prefetching: 300 microseconds.
+embedding size 128
+
+Time with Simd: 113 microseconds.
+Time WITH software prefetching and simd: 188 microseconds.
+
+Speedup (with software prefetching) = 1.267x
+Speedup (with simd) = 3.363x
+Speedup (with software prefetching and simd) = 2.021x
+-------------------------------------------------------------------------
+Prefetch distance: 18
+
+Time WITHOUT software prefetching: 369 microseconds.
+Time WITH software prefetching: 301 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 157 microseconds.
+
+Speedup (with software prefetching) = 1.226x
+Speedup (with simd) = 3.181x
+Speedup (with software prefetching and simd) = 2.350x
+-------------------------------------------------------------------------
+Prefetch distance: 18
+
+Time WITHOUT software prefetching: 425 microseconds.
+Time WITH software prefetching: 300 microseconds.
+embedding size 128
+
+Time with Simd: 111 microseconds.
+Time WITH software prefetching and simd: 204 microseconds.
+
+Speedup (with software prefetching) = 1.417x
+Speedup (with simd) = 3.829x
+Speedup (with software prefetching and simd) = 2.083x
+-------------------------------------------------------------------------
+Prefetch distance: 19
+
+Time WITHOUT software prefetching: 368 microseconds.
+Time WITH software prefetching: 304 microseconds.
+embedding size 128
+
+Time with Simd: 113 microseconds.
+Time WITH software prefetching and simd: 141 microseconds.
+
+Speedup (with software prefetching) = 1.211x
+Speedup (with simd) = 3.257x
+Speedup (with software prefetching and simd) = 2.610x
+-------------------------------------------------------------------------
+Prefetch distance: 19
+
+Time WITHOUT software prefetching: 375 microseconds.
+Time WITH software prefetching: 371 microseconds.
+embedding size 128
+
+Time with Simd: 117 microseconds.
+Time WITH software prefetching and simd: 155 microseconds.
+
+Speedup (with software prefetching) = 1.011x
+Speedup (with simd) = 3.205x
+Speedup (with software prefetching and simd) = 2.419x
+-------------------------------------------------------------------------
+Prefetch distance: 19
+
+Time WITHOUT software prefetching: 353 microseconds.
+Time WITH software prefetching: 301 microseconds.
+embedding size 128
+
+Time with Simd: 120 microseconds.
+Time WITH software prefetching and simd: 179 microseconds.
+
+Speedup (with software prefetching) = 1.173x
+Speedup (with simd) = 2.942x
+Speedup (with software prefetching and simd) = 1.972x
+-------------------------------------------------------------------------
+Prefetch distance: 19
+
+Time WITHOUT software prefetching: 363 microseconds.
+Time WITH software prefetching: 300 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 204 microseconds.
+
+Speedup (with software prefetching) = 1.210x
+Speedup (with simd) = 3.241x
+Speedup (with software prefetching and simd) = 1.779x
+-------------------------------------------------------------------------
+Prefetch distance: 20
+
+Time WITHOUT software prefetching: 356 microseconds.
+Time WITH software prefetching: 308 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 155 microseconds.
+
+Speedup (with software prefetching) = 1.156x
+Speedup (with simd) = 3.179x
+Speedup (with software prefetching and simd) = 2.297x
+-------------------------------------------------------------------------
+Prefetch distance: 20
+
+Time WITHOUT software prefetching: 434 microseconds.
+Time WITH software prefetching: 307 microseconds.
+embedding size 128
+
+Time with Simd: 118 microseconds.
+Time WITH software prefetching and simd: 156 microseconds.
+
+Speedup (with software prefetching) = 1.414x
+Speedup (with simd) = 3.678x
+Speedup (with software prefetching and simd) = 2.782x
+-------------------------------------------------------------------------
+Prefetch distance: 20
+
+Time WITHOUT software prefetching: 361 microseconds.
+Time WITH software prefetching: 302 microseconds.
+embedding size 128
+
+Time with Simd: 112 microseconds.
+Time WITH software prefetching and simd: 139 microseconds.
+
+Speedup (with software prefetching) = 1.195x
+Speedup (with simd) = 3.223x
+Speedup (with software prefetching and simd) = 2.597x
+-------------------------------------------------------------------------
+Prefetch distance: 20
+
+Time WITHOUT software prefetching: 508 microseconds.
+Time WITH software prefetching: 309 microseconds.
+embedding size 128
+
+Time with Simd: 116 microseconds.
+Time WITH software prefetching and simd: 162 microseconds.
+
+Speedup (with software prefetching) = 1.644x
+Speedup (with simd) = 4.379x
+Speedup (with software prefetching and simd) = 3.136x
+-------------------------------------------------------------------------
